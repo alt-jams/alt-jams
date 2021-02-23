@@ -1,16 +1,26 @@
-### Hi there 👋
+<div style="text-align:center">
+  <img width="500" src="https://cdn.discordapp.com/attachments/694609874197151754/813851700011335730/NLW04_pack_divulgacao_-_Github.png">
+</div>
 
-<!--
-**alt-jams/alt-jams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá pessoal 👋
 
-Here are some ideas to get you started:
+Sou estudante do 4º ano do curso técnico em informática integrado ao ensino médio pelo Instituto Federal do Paraná, onde me apaixonei por tecnologia, especialmente na área de desenvolvimento de aplicações. Desde então, me tornei a pessoa da família que é chamada para resolver problemas com o computador. :computer:
+ 
+## :zap: &nbsp; Stacks e skills &nbsp; :zap:
+:coffee: Java
+:computer: HTML & CSS
+:computer: Javascript
+:computer: MySQL 
+:computer: UX design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## :rocket:  &nbsp; Atualmente estudando:
+:purple_heart: ReactJs
+:purple_heart: NodeJs
+:purple_heart: NextJs
+
+
+## :link: &nbsp; Onde me encontrar  &nbsp; :link:
+
+ [![Linkedin Badge](https://img.shields.io/badge/-JamillyCuco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamilly-nascimento-cuco-dos-santos-3b77631aa/)](https://www.linkedin.com/in/jamilly-nascimento-cuco-dos-santos-3b77631aa/)
+&nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-jamillysantos2507@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jamillysantos2507@gmail.com)](mailto:jamillysantos2507@gmail.com)
