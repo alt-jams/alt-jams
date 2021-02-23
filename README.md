@@ -14,7 +14,7 @@ Sou estudante do 4º ano do curso técnico em informática integrado ao ensino m
 :computer: UX design
 
 
-## :rocket:  &nbsp; Atualmente estudando:
+## :rocket:  &nbsp; Estudando atualmente:
 :purple_heart: ReactJs
 :purple_heart: NodeJs
 :purple_heart: NextJs
