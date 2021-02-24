@@ -7,17 +7,17 @@
 Sou estudante do 4º ano do curso técnico em informática integrado ao ensino médio pelo Instituto Federal do Paraná, onde me apaixonei por tecnologia, especialmente na área de desenvolvimento de aplicações. Desde então, me tornei a pessoa da família que é chamada para resolver problemas com o computador. :computer:
  
 ## :zap: &nbsp; Stacks e skills &nbsp; :zap:
-:coffee: Java
-:computer: HTML & CSS
-:computer: Javascript
-:computer: MySQL 
-:computer: UX design
+:coffee: Java  &nbsp;
+:computer: HTML & CSS &nbsp;
+:computer: Javascript &nbsp;
+:computer: MySQL &nbsp;
+:computer: UX design  &nbsp;
 
 
 ## :rocket:  &nbsp; Estudando atualmente:
-:purple_heart: ReactJs
-:purple_heart: NodeJs
-:purple_heart: NextJs
+:purple_heart: ReactJs &nbsp;
+:purple_heart: NodeJs &nbsp;
+:purple_heart: NextJs &nbsp;
 
 
 ## :link: &nbsp; Onde me encontrar  &nbsp; :link:
