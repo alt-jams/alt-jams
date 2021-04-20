@@ -19,5 +19,5 @@ Sou estudante do 4º ano do curso técnico em informática integrado ao ensino m
 
 ## :link: &nbsp; Onde me encontrar  &nbsp; :link:
 
- [![Linkedin Badge](https://img.shields.io/badge/-JamillyCuco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamilly-nascimento-cuco-dos-santos-3b77631aa/)](https://www.linkedin.com/in/jamilly-nascimento-cuco-dos-santos-3b77631aa/)
+ [![Linkedin Badge](https://img.shields.io/badge/-JamillyCuco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamilly-cuco/)](https://www.linkedin.com/in/jamilly-cuco/)
 &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-jamillysantos2507@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jamillysantos2507@gmail.com)](mailto:jamillysantos2507@gmail.com)
