@@ -1,7 +1,7 @@
 
 # Olá pessoal 👋
 
-Sou estudante do 4º ano do curso técnico em informática integrado ao ensino médio pelo Instituto Federal do Paraná, onde me apaixonei por tecnologia, especialmente na área de desenvolvimento de aplicações. Desde então, me tornei a pessoa da família que é chamada para resolver problemas com o computador. :computer:
+Sou Técnica em informática pelo Instituto Federal do Paraná, durante minha formação me apaixonei por tecnologia, especialmente na área de desenvolvimento de aplicações. Desde então, me tornei a pessoa da família que é chamada para resolver problemas com o computador. :computer:
  
 ## :zap: &nbsp; Stacks e skills &nbsp; :zap:
 :coffee: Java  &nbsp;
