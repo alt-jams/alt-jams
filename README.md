@@ -1,18 +1,20 @@
 
 # Olá pessoal 👋
 
-Sou Técnica em informática pelo Instituto Federal do Paraná. Durante minha formação me apaixonei por tecnologia, especialmente na área de desenvolvimento de aplicações. :computer:
+Sou Técnica em informática pelo Instituto Federal do Paraná. Durante minha formação me apaixonei por tecnologia, especialmente na área de desenvolvimento de aplicações. Atualmente atuo como desenvolvedora front-end :computer:
  
 ## :zap: &nbsp; Stacks e skills &nbsp; :zap:
-:coffee: Java  &nbsp;
+:purple_heart: ReactJs &nbsp;
 :computer: HTML & CSS &nbsp;
 :computer: Javascript &nbsp;
-:computer: MySQL &nbsp;
 :computer: UX design  &nbsp;
+:coffee: Java  &nbsp;
+:computer: MySQL &nbsp;
+
 
 
 ## :rocket:  &nbsp; Estudando atualmente:
-:purple_heart: ReactJs &nbsp;
+
 :purple_heart: NodeJs &nbsp;
 :purple_heart: NextJs &nbsp;
 
