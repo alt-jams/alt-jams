@@ -1,7 +1,7 @@
 
 # Olá pessoal 👋
 
-Sou Técnica em informática pelo Instituto Federal do Paraná. Durante minha formação me apaixonei por tecnologia, especialmente na área de desenvolvimento de aplicações. Desde então, me tornei a pessoa da família que é chamada para resolver problemas com o computador. :computer:
+Sou Técnica em informática pelo Instituto Federal do Paraná. Durante minha formação me apaixonei por tecnologia, especialmente na área de desenvolvimento de aplicações. :computer:
  
 ## :zap: &nbsp; Stacks e skills &nbsp; :zap:
 :coffee: Java  &nbsp;
