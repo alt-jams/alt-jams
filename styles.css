@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    border: none;
+}
+
+html, body {
+    height: 100%;  
+    width: 100%;   
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.mainContainer {
+    padding: 3rem;
+    background-color: #1e1c20;
+    height: 100%;
+}
+
+/* Estilos menu */
+.menu {
+    display: flex;             
+    justify-content: space-around;   
+    align-items: center;   
+    width: 100%;
+    padding-right: 3rem;
+    padding-left: 3rem;
+}
+
+.menu a {
+    color: #ebeaea; 
+    text-decoration: none;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.menu a:hover {
+    color: #B083E4;
+    transition: all 0.3s ease;
+}
+
+/* Conteudo home */
+.content{
+    display: flex;             
+    justify-content: space-around;   
+    align-items: center;   
+    height: 100%;
+    width: 100%;
+}
+
+.contentLeft {
+    display: flex;               
+    flex-direction: column;      
+    justify-content: space-between; 
+    height: 60%; 
+}
+
+.contentLeft h3 {
+    color: #ebeaea; 
+}
+
+.contentLeft h1 {
+    color: #B083E4;
+}
+
+.content p {
+    color: #ebeaea; 
+    width: 30rem;
+    line-height: 1.7rem;
+    text-align: justify;
+}   
+
+.buttonContainer {
+    display: flex;               
+    flex-direction: column;      
+    justify-content: space-between; 
+}
+
+/* Buttons style */
+button {
+    height: 40px;
+    width: 310px;
+    border-radius: 14px;
+    margin-bottom: 2rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.primaryButton {
+    background-color: #B083E4;
+    color: #1e1c20;
+}
+
+.primaryButton:hover {
+    background-color: #9261ca;
+    transition: all 0.3s ease;
+}
+
+.secondaryButton {
+    background-color: #1e1c20;
+    color: #B083E4;
+    border: 2px solid #B083E4;
+}
+
+.secondaryButton:hover {
+    background-color: #38303f;
+    transition: all 0.3s ease;
+}
