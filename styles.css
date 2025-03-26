@@ -1,3 +1,4 @@
+/* Configurações iniciais */
 * {
     margin: 0;
     padding: 0;
@@ -43,7 +44,7 @@ body {
     transition: all 0.3s ease;
 }
 
-/* Conteudo home */
+/* estilos do conteúdo do site */
 .content{
     display: flex;             
     justify-content: space-around;   
@@ -105,13 +106,13 @@ body {
     gap:1.5rem;
 }
 
+/* Buttons style */
 .buttonContainer {
     display: flex;               
     flex-direction: column;      
     justify-content: space-between; 
 }
 
-/* Buttons style */
 button {
     height: 40px;
     width: 310px;
@@ -142,6 +143,7 @@ button {
     transition: all 0.3s ease;
 }
 
+/* estilos formulário de contato */
 form {
     display: flex;
     flex-direction: column;
